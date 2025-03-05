@@ -1,0 +1,1 @@
+ /Users/mac/Documents/projects/roqqu_test/.dart_tool/flutter_build/01deefe7f22976a96aa8d5ba73d92371/native_assets.yaml: 
